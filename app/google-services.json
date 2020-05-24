@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "544133657577",
+    "firebase_url": "https://pruebaveterinaria-3104a.firebaseio.com",
+    "project_id": "pruebaveterinaria-3104a",
+    "storage_bucket": "pruebaveterinaria-3104a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544133657577:android:f80c35356f2ed90b5b5178",
+        "android_client_info": {
+          "package_name": "com.uisrael.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544133657577-5dvij08ftsqt52fbot7d4a55t878b02l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uisrael.loginfirebase",
+            "certificate_hash": "99442f8889e6580420f50f189f32dbbdabb59d39"
+          }
+        },
+        {
+          "client_id": "544133657577-ila0i9ieggaomlm27j5q82983h0tntso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNgKnyzfq0bmvpBwE_NRSR-L_WxWhP7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544133657577-ila0i9ieggaomlm27j5q82983h0tntso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
