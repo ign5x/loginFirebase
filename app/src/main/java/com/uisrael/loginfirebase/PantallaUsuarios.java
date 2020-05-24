@@ -33,7 +33,7 @@ public class PantallaUsuarios extends AppCompatActivity {
                String nombre=dataSnapshot.child("nombre").getValue().toString();
                String apellido=dataSnapshot.child("apellido").getValue().toString();
                String edad= dataSnapshot.child("edad").getValue().toString();
-//Comprobando que funcione el controlador de versiones
+//Comprobando que funcione el controlador de versionesS
                txtDatos.setText("El NOMBRE es: "+nombre+" El apellido es: "+apellido+" Su edad es:"+edad);
            }
 
